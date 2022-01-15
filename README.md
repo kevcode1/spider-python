@@ -5,7 +5,7 @@ b 站视频分区 up 主粉丝数据 python 爬虫简易版
 ## 使用方法
 以影视区影视杂谈板块为例 ( cate_id=182 )
 
-运行 start.ipynb
+运行 Start.ipynb
 
 csv 文件及 jpg 图片均保存在当前目录
 
